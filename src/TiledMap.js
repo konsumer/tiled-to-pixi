@@ -1,3 +1,5 @@
+const PIXI = require('pixi.js')
+
 const path = require('path')
 const tmx = require('tmx-parser')
 

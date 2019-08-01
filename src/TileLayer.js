@@ -1,3 +1,5 @@
+const PIXI = require('pixi.js')
+
 const Tile = require('./Tile')
 
 class TileLayer extends PIXI.Container {

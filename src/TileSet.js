@@ -1,3 +1,5 @@
+const PIXI = require('pixi.js')
+
 class TileSet {
   constructor(route, tileSet) {
     this.setTileSetProperties(tileSet)
